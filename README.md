@@ -39,12 +39,10 @@ All written content, including the text of the lab reports, documentation, figur
 
 **Under the condition that you give appropriate credit.**
 
-A copy of this license can be found in the [**LICENSE.CC-BY-4.0**](./LICENSE.CC-BY-4.0) file.
+
 
 ### 💻 Source Code
 
 All original source code files contained within this repository are licensed under the **MIT License**.
 
 This is a permissive license that allows you to do almost anything with the code, including using it in your own projects, as long as you include the original copyright and license notice.
-
-The full text of this license can be found in the [**LICENSE.MIT**](./LICENSE.MIT) file.
